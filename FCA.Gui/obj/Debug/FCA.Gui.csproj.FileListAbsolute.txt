@@ -1,0 +1,15 @@
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\bin\Debug\FCA.Gui.exe.config
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\bin\Debug\FCA.Gui.exe
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\bin\Debug\FCA.Gui.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.csprojResolveAssemblyReference.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\MainWindow.g.cs
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\App.g.cs
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui_MarkupCompile.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui_MarkupCompile.lref
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\MainWindow.baml
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.g.resources
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.Properties.Resources.resources
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.csproj.GenerateResource.Cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.csproj.CoreCompileInputs.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.exe
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Gui\obj\Debug\FCA.Gui.pdb

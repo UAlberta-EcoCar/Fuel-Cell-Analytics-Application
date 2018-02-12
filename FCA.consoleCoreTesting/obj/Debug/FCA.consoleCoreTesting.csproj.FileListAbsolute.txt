@@ -1,0 +1,11 @@
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\FCA.consoleCoreTesting.exe.config
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\FCA.consoleCoreTesting.exe
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\FCA.consoleCoreTesting.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\FCA.Core.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\FCA.Core.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\obj\Debug\FCA.consoleCoreTesting.csprojResolveAssemblyReference.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\obj\Debug\FCA.consoleCoreTesting.csproj.CoreCompileInputs.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\obj\Debug\FCA.consoleCoreTesting.exe
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\obj\Debug\FCA.consoleCoreTesting.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.consoleCoreTesting\bin\Debug\Newtonsoft.Json.xml

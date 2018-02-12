@@ -1,0 +1,14 @@
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\bin\Debug\FCA.Core.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\bin\Debug\FCA.Core.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\obj\Debug\FCA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\obj\Debug\FCA.Core.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\obj\Debug\FCA.Core.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\FCA.Core\obj\Debug\FCA.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\bin\Debug\FCA.Core.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\bin\Debug\FCA.Core.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\obj\Debug\FCA.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\obj\Debug\FCA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\obj\Debug\FCA.Core.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\obj\Debug\FCA.Core.pdb
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dalin Riches\Documents\Fuel-Cell-Analytics-Application\FCA.Core\bin\Debug\Newtonsoft.Json.xml
